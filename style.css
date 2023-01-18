@@ -1,0 +1,43 @@
+
+  
+  .card-header img {
+    height: 50px;
+    width: auto;
+  }
+ 
+  .card{
+    margin-top: 1cm;
+    background-color:#af8efd;
+   text-align: center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   height:15cm;
+  }
+  .card-body{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: larger;
+  }
+
+  .card-body p:nth-of-type(1){
+    margin-top: 20px;
+  }
+
+.card-img-top{
+
+  height: 150px;
+  width: 250px;
+}
+
+.btn {
+  width: 7cm;
+ align-self: center;
+ margin-bottom: 20px;
+ 
+}
+
+h1{
+  margin-top: 50px;
+}
+
+
+
